@@ -28,3 +28,5 @@ Gimbal: [Copterlab](https://copterlab.com/2-axis-dji-o4-air-unit-micro-brushless
 - also can't figure out if it uses SBUS but there is an option for I2C which is compatible with Pixhawk
 
 https://www.unmannedsystemstechnology.com/ seems to be a pretty good repository of suppliers for UAV parts.
+
+https://docs.px4.io/main/en/hardware/drone_parts useful for px compatible parts
